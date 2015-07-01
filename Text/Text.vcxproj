@@ -10,9 +10,6 @@
       <Platform>Win32</Platform>
     </ProjectConfiguration>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="nextPermutation.cpp" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{657E771A-F175-46B0-AB65-F54C6FE495B7}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
