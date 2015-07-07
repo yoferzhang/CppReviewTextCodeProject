@@ -1,10 +1,10 @@
-﻿生成启动时间为 2015/7/6 17:44:53。
+﻿生成启动时间为 2015/7/7 19:36:58。
      1>项目“E:\Code\cpp\Text\Text\Text.vcxproj”在节点 2 上(Build 个目标)。
      1>Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Code\cpp\Text\Debug\Text.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Code\cpp\Text\Debug\Text.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Code\cpp\Text\Debug\Text.lib" /MACHINE:X86 Debug\LifeCycle2.obj
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Code\cpp\Text\Debug\Text.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Code\cpp\Text\Debug\Text.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Code\cpp\Text\Debug\Text.lib" /MACHINE:X86 Debug\stlString.obj
          Text.vcxproj -> E:\Code\cpp\Text\Debug\Text.exe
      1>已完成生成项目“E:\Code\cpp\Text\Text\Text.vcxproj”(Build 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:00.38
+已用时间 00:00:00.29
